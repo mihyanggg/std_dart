@@ -1,2 +1,2 @@
-# std_dart-
+# std_dart
 for study
